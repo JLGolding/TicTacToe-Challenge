@@ -23,4 +23,16 @@ Player 1 always goes first and is always X.
 The game will check after 4 turns to see if there is a winner and every turn after that until someone wins or there is a draw.
 
 For running on your local machine:
-Navigate to the branch of this repository... tbc
+(With Visual Studio Installed on your machine)
+Navigate to the Main branch of this repository and click clone/Download.
+  Download as a zip and find this folder and extract all the files to your desired location.
+  Inside the extracted folder find the application file and run.
+  This will open the game to be played.
+  
+  If the application file doesn't appear to run, check the version of windows via the help button in Visual Studios navigation bar.
+  In order to run the game with Visual Studio 2019 Version 16.3 or later is required (see https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites?f1url=https%3A%2F%2Fmsdn.microsoft.com%2Fquery%2Fdev15.query%3FappId%3DDev15IDEF1%26l%3DEN-US%26k%3Dk(NETSDK1045)%26rd%3Dtrue&tabs=netcore30 for further details).
+  
+Without Visual Studio it is possible to run the program through the Console refer: https://docs.microsoft.com/en-us/dotnet/core/tutorials/using-with-xplat-cli for further details.
+
+To view the source code:
+  Open Program.cs in preferred text editor or Visual Studio.
