@@ -3,6 +3,7 @@ Tic Tac Toe
 written in C#
 Complied using Visual Sudio 2019
 Version 16.3.6 (please note there may be some compatibilitiy issues with older versions)
+.NET Core SDK Version 3.0
 
 Assumptions for the game and brief project description:
 This is a game to be played on the local terminal window.
@@ -24,12 +25,13 @@ The game will check after 4 turns to see if there is a winner and every turn aft
 
 For running on your local machine:
 (With Visual Studio Installed on your machine)
-Navigate to the Master branch of this repository and click Clone or Download button.
-  Download as a zip and find this folder and extract all the files to your desired location.
+Navigate to the Main page of the repository and make sure the Master branch is selected. Click the Clone or Download button.
+  Download as a zip and find this folder in your downloads. 
+  Extract all the files to your desired location.
   Inside the extracted folder find the application file and run.
   This will open the game to be played.
   
-  If the application file doesn't appear to run, check the version of windows via the help button in Visual Studios navigation bar.
+  If the application file doesn't appear to run, check the version of Visual Studio via the help button on the Visual Studios navigation bar.
   In order to run the game with Visual Studio 2019 Version 16.3 or later is required (see https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites?f1url=https%3A%2F%2Fmsdn.microsoft.com%2Fquery%2Fdev15.query%3FappId%3DDev15IDEF1%26l%3DEN-US%26k%3Dk(NETSDK1045)%26rd%3Dtrue&tabs=netcore30 for further details).
   Visual Studio can be updated through the help tab.
   
