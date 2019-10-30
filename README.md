@@ -24,7 +24,7 @@ The game will check after 4 turns to see if there is a winner and every turn aft
 
 For running on your local machine:
 (With Visual Studio Installed on your machine)
-Navigate to the Main branch of this repository and click clone/Download.
+Navigate to the Main branch of this repository and click Clone or Download button.
   Download as a zip and find this folder and extract all the files to your desired location.
   Inside the extracted folder find the application file and run.
   This will open the game to be played.
